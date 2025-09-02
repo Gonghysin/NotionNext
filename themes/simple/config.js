@@ -1,6 +1,6 @@
 const CONFIG = {
 
-  SIMPLE_LOGO_IMG: 'https://hysinoss-1334037784.cos.ap-shanghai.myqcloud.com/longshot20250902174407.png',
+  SIMPLE_LOGO_IMG: 'https://hysinoss-1334037784.cos.ap-shanghai.myqcloud.com/12314.webp',
   SIMPLE_TOP_BAR: true, // 显示顶栏
   SIMPLE_TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
   SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>生活黑客<br/>/在读大学生<br/>/知识分享博主</div>',
